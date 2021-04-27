@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakshminarayanagurram
 - 👀 I’m interested in Electronics, Embedded C and Embedded linux
-- 🌱 I’m currently c++
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on 3d-Printer, CNC control software and IOT platforms
 - 📫 Reach me at:
 
